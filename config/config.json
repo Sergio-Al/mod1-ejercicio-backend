@@ -1,0 +1,23 @@
+{
+  "development": {
+  "username": "postgres",
+  "password": "MyPass1234s",
+  "database": "ejercicio",
+  "host": "127.0.0.1",
+  "dialect": "postgres"
+  },
+  "test": {
+  "username": "postgres",
+  "password": "MyPass1234s",
+  "database": "ejercicio",
+  "host": "127.0.0.1",
+  "dialect": "postgres"
+  },
+  "production": {
+  "username": "postgres",
+  "password": "MyPass1234s",
+  "database": "ejercicio_prod",
+  "host": "127.0.0.1",
+  "dialect": "postgres"
+  }
+}
